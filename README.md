@@ -1,2 +1,4 @@
 # Mixed-Messages
-Portfolio Project - Inspirational quote generator
+**Description:** Portfolio Project - Inspirational quote generator using JavaScipt.
+
+**Collaborators:** Made thanks to Codecademy.
